@@ -2,10 +2,8 @@
 Website that has incorporated CRUD functionality with Python language.
 
 ## SCREENSHOTS:
-![healthy-smoothie-recipies](https://imgur.com/oHxlasW.png)
-![healthy-smoothie-recipies](https://imgur.com/Me7Nejr.png)
-![healthy-smoothie-recipies](https://imgur.com/TAWh5db.png)
-![healthy-smoothie-recipies](https://imgur.com/mJfo0mL.png)
+![dogcollector2]()
+![dogcollector2]()
 
 ## TECHNOLOGIES USED: 
 1. Python
