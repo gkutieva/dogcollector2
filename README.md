@@ -2,8 +2,8 @@
 Website that has incorporated CRUD functionality with Python language.
 
 ## SCREENSHOTS:
-![dogcollector2]()
-![dogcollector2]()
+![dogcollector2]('https://imgur.com/ldPVSsQ')
+![dogcollector2]('https://imgur.com/rxtgVlU')
 
 ## TECHNOLOGIES USED: 
 1. Python
