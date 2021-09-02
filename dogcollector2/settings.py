@@ -122,11 +122,3 @@ STATIC_URL = '/static/'
 
 LOGIN_REDIRECT_URL = '/dogs/'
 LOGOUT_REDIRECT_URL = '/'
-
-import environ
-environ.Env()
-environ.Env.read_env()
-
-import django_on_heroku
-django_on_heroku.settings(locals())
-

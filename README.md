@@ -10,6 +10,7 @@ Website that has incorporated CRUD functionality with Python language.
 2. HTML
 3. CSS
 4. Materialize
+5. Django
 
 # GETTING STARTED:  
 [Click here to browse the app]()

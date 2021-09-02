@@ -51,4 +51,4 @@ class Feeding(models.Model):
   # change the default sort
   class Meta:
     ordering = ['-date']
-    
+
