@@ -2,8 +2,8 @@
 Website that has incorporated CRUD functionality with Python language.
 
 ## SCREENSHOTS:
-![dogcollector2]('https://imgur.com/ldPVSsQ')
-![dogcollector2]('https://imgur.com/rxtgVlU')
+![dogcollector2](https://imgur.com/ldPVSsQ.png)
+![dogcollector2](https://imgur.com/rxtgVlU.png)
 
 ## TECHNOLOGIES USED: 
 1. Python
@@ -16,6 +16,6 @@ Website that has incorporated CRUD functionality with Python language.
 [Click here to browse the app]()
 
 ### NEXT STEPS: 
-* Being able to add an image for each dog
 * Being able to share my app to other social medias
 * Being able to create a register for the user
+* Being able to delete photos and toys 
