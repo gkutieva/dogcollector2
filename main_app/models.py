@@ -2,6 +2,7 @@ from django.db import models
 from django.urls import reverse
 from datetime import date
 
+
 MEALS = (
     ('B', 'Breakfast'),
     ('L', 'Lunch'),
@@ -24,6 +25,7 @@ class Dog(models.Model):
   description = models.TextField(max_length=250)
   age = models.IntegerField()
   toys = models.ManyToManyField(Toy)
+
 
 
   def __str__(self):
@@ -57,6 +59,4 @@ class Photo(models.Model):
     dog = models.ForeignKey(Dog, on_delete=models.CASCADE)
 
     def __str__(self):
-        return f"Photo for dog_id: {self.dog_id} @{self.url}"
-
-
+       return f"Photo for dog_id: {self.dog_id} @{self.url}"
